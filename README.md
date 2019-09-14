@@ -15,7 +15,7 @@ This programme shows some of the simplest uses of WebView2, such as creating and
 
 ## Contributions are Welcome!
 
-This project will continue to evolve. We will do modifications all the time as long as Azure DevOps and Azure Portal do not stop changing.
+This project will continue to evolve. We will do modifications all the time to include other exciting features.
 
 Any help will be appreciated. You can develop new features, fix bugs, improve the documentation, or do some other cool stuff.
 
