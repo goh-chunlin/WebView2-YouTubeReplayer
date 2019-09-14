@@ -5,7 +5,7 @@ A YouTube Replayer built with the Microsoft Edge WebView2 control.
 
 ![Home screen of the program](github-images/screenshot.png?raw=true)
 
-Inspired by WebView2Browser, WV2YTR is a sample Windows desktop application demonstrating the WebView2 control capabilities. It is built as a Win32 Visual Studio 2019 (v16.3 Preview 3) project with WebView2 to power its features.
+Inspired by [WebView2Browser](https://github.com/MicrosoftEdge/WebView2Browser), WV2YTR is a sample Windows desktop application demonstrating the WebView2 control capabilities. It is built as a Win32 Visual Studio 2019 (v16.3 Preview 3) project with WebView2 to power its features.
 
 This programme shows some of the simplest uses of WebView2, such as creating and navigating a WebView. In the traditional WebView (with Internet Explorer engine), it is not possible to loop YouTube video with its embed URL. Hence, now with WebView2, this feature is finally possible.
 
@@ -34,6 +34,7 @@ This project is supported by the [Singapore .NET Developers Community](http://do
 - [WebView2Browser: A rich sample for WebView2](https://blogs.windows.com/msedgedev/2019/08/15/webview2browse-sample-for-webview2/#rzhJEBfYkul3Mh7y.97)
 - [Getting Started with WebView2 (developer preview)](https://docs.microsoft.com/en-us/microsoft-edge/hosting/webview2/gettingstarted#step-1---create-a-single-window-win32-app)
 - [Microsoft.Web.WebView2](https://www.nuget.org/packages/Microsoft.Web.WebView2)
+- [GitHub: WebView2Browser](https://github.com/MicrosoftEdge/WebView2Browser)
 - [GitHub: HelloWebView - start](https://github.com/MicrosoftEdge/WebView2Samples)
 - [Windows GDI](https://docs.microsoft.com/en-us/windows/win32/api/_gdi/)
 - [Walkthrough: Create a traditional Windows Desktop application (C++)](https://docs.microsoft.com/en-us/cpp/windows/walkthrough-creating-windows-desktop-applications-cpp?view=vs-2019)
